@@ -1,0 +1,14 @@
+2024-08-09T21:03:26,912 Using pip 24.2 from /Users/ishikathakur/Other Computer/COMP593-Lab10/myenv/lib/python3.12/site-packages/pip (python 3.12)
+2024-08-09T21:03:26,913 Non-user install because user site-packages disabled
+2024-08-09T21:03:26,941 Created temporary directory: /private/var/folders/q8/h37k5kc52y77rmd21q5trmqc0000gn/T/pip-build-tracker-mgh4zxsc
+2024-08-09T21:03:26,941 Initialized build tracking at /private/var/folders/q8/h37k5kc52y77rmd21q5trmqc0000gn/T/pip-build-tracker-mgh4zxsc
+2024-08-09T21:03:26,941 Created build tracker: /private/var/folders/q8/h37k5kc52y77rmd21q5trmqc0000gn/T/pip-build-tracker-mgh4zxsc
+2024-08-09T21:03:26,941 Entered build tracker: /private/var/folders/q8/h37k5kc52y77rmd21q5trmqc0000gn/T/pip-build-tracker-mgh4zxsc
+2024-08-09T21:03:26,941 Created temporary directory: /private/var/folders/q8/h37k5kc52y77rmd21q5trmqc0000gn/T/pip-install-orxeiy1m
+2024-08-09T21:03:26,941 Created temporary directory: /private/var/folders/q8/h37k5kc52y77rmd21q5trmqc0000gn/T/pip-ephem-wheel-cache-_kkuk15v
+2024-08-09T21:03:26,949 Requirement already satisfied: Pillow in ./myenv/lib/python3.12/site-packages (10.4.0)
+2024-08-09T21:03:26,951 Created temporary directory: /private/var/folders/q8/h37k5kc52y77rmd21q5trmqc0000gn/T/pip-unpack-599up8pe
+2024-08-09T21:03:26,974 Remote version of pip: 24.2
+2024-08-09T21:03:26,974 Local version of pip:  24.2
+2024-08-09T21:03:26,975 Was pip installed by pip? True
+2024-08-09T21:03:26,976 Removed build tracker: '/private/var/folders/q8/h37k5kc52y77rmd21q5trmqc0000gn/T/pip-build-tracker-mgh4zxsc'

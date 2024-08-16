@@ -83,6 +83,6 @@ cbox_poke_sel.bind('<<ComboboxSelected>>', handle_poke_sel)
 def handle_set_desktop(lbl):
     # Get the path of the currently displayed image
     image_path = lbl.image.cget('file')
-    image_lib.set_desktop_background(image_path)
+    image_lib.set_desktop_background_image(image_path)
 
 root.mainloop()
